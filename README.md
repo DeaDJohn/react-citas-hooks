@@ -1,3 +1,16 @@
+## Citas React con Hooks
+
+Proyecto en el que he usado los [Hooks](https://es.reactjs.org/docs/hooks-intro.html)
+
+Si quieres echar un ojo de como funciona esta app puedes cotillear [AQUI](https://gifted-hypatia-3675c1.netlify.com/)
+
+Por cierto para el tema visual se ha usado el framework [SKELETON](http://getskeleton.com/).
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
